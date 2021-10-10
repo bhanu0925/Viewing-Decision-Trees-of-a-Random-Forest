@@ -9,9 +9,11 @@ Decision Tree learning is a process of finding the optimal rules in each interna
 Decision trees are much easier to interpret and understand. Since a random forest combines multiple decision trees, it becomes more difficult to interpret. 
 Here's the good news – it's not impossible to interpret a random forest.
 
-## Below are 4 ways to visualize Decision Tree from a Random Forest in Python
+## 4 ways to visualize Decision Tree from a Random Forest in Python
 
 - print text representation of the tree with sklearn.tree.export_text method
 - plot with sklearn.tree.plot_tree method (pip install matplotlib)
 - plot with sklearn.tree.export_graphviz method (pip install graphviz)
 - plot with dtreeviz package (pip install dtreeviz)
+
+notebook link - https://github.com/bhanu0925/Viewing-Decision-Trees-of-a-Random-Forest/blob/main/Viewing%20RandomForest/ViewDecisionTree.ipynb
